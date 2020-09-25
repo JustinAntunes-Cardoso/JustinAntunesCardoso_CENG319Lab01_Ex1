@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JustinAntunesCardoso_CENG319Lab01_Ex1</string>
+    <string name="createView">AIActivity was created</string>
+    <string name="startView">AIActivity was started</string>
+    <string name="stopView">AIActivity was stopped</string>
+    <string name="destroyView">AIActivity was destroy</string>
+    <string name="createview">VRActivity was created</string>
+    <string name="startview">VRActivity was started</string>
+    <string name="stopview">VRActivity was stopped</string>
+    <string name="destroyview">VRActivity was destroy</string>
+    <string name="onCreate">onCreate was executed</string>
+    <string name="onStart">onStart was executed</string>
+    <string name="onStop">onStop was executed</string>
+    <string name="onDestroy">onDestroy was executed</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustinAntunesCardoso_CENG319Lab01_Ex1</string>
+    <string name="createView">AIActivity a été créé</string>
+    <string name="startView">AIActivity a été lancé</string>
+    <string name="stopView">AIActivity a été arrêté</string>
+    <string name="destroyView">AIActivity a été détruit</string>
+    <string name="createview">VRActivity a été créé</string>
+    <string name="startview">VRActivity a été lancé</string>
+    <string name="stopview">VRActivity a été arrêté</string>
+    <string name="destroyview">VRActivity a été détruit</string>
+    <string name="onCreate">onCreate a été exécuté</string>
+    <string name="onStart">onStart a été exécuté</string>
+    <string name="onStop">onStop a été exécuté</string>
+    <string name="onDestroy">onDestroy a été exécuté</string>
+</resources>
